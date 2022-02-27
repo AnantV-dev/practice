@@ -13,4 +13,7 @@ then
 elif [[ $num1 -gt 99 && $num1 -lt 1000 ]]
 then 
     echo "This is three digit number."
+elif [[  $num1 -gt 9999 ]]
+then
+    echo "Bhai abhi pata nahi tu kya likha hai"
 fi
