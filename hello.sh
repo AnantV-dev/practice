@@ -3,4 +3,4 @@
 echo "Namaskar Saheb"
 
 IP=$ifconfig
-echo $IP
+echo "$IP"
