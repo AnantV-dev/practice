@@ -2,5 +2,5 @@
 
 echo "Namaskar Saheb"
 echo "Aaple naav liha"
-read name
-echo "$name"
+Machine=$hostname
+echo `expr $machine`
