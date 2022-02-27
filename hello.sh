@@ -2,5 +2,5 @@
 
 echo "Namaskar Saheb"
 
-IP=$ifconfig
-echo "$IP"
+read name
+echo "$name"
