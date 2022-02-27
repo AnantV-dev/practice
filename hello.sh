@@ -3,4 +3,4 @@
 echo "Namaskar Saheb"
 echo "Aaple naav liha"
 Machine=$hostname
-echo `expr $machine`
+echo `expr $Machine`
