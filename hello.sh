@@ -1,7 +1,6 @@
 #!/bin/bash
 
 echo "Namaskar Saheb"
-
-read name
 echo "Aaple naav liha"
+read name
 echo "$name"
